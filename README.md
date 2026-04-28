@@ -53,7 +53,8 @@ Ana Panel
 ---
 
 Bot Yönetimi
-<img width="1088" height="610" alt="image" src="https://github.com/user-attachments/assets/56ddf4e4-af04-4923-8e59-cc5820bd15d7" />
+<img width="1092" height="615" alt="image" src="https://github.com/user-attachments/assets/62959413-f7d2-4bed-ab88-501964eadb64" />
+
 
 ---
 
